@@ -1,6 +1,6 @@
 # Codsoft-Virtual-Internship IN Java Programming 
-Submitted Task Code
-Task 1 : Guessing Number Game 
-Task 2 : Student Grade Calculator
-Task 3 : Atm Interface with Basic Functions
+Submitted Task Code<br>
+Task 1 : Guessing Number Game <br>
+Task 2 : Student Grade Calculator<br>
+Task 3 : Atm Interface with Basic Functions (Task Details)<br>
 
